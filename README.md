@@ -32,15 +32,15 @@ This notebook provides a deep-dive analysis of customer behavior through multipl
 - Identifying high-value and at-risk customers
 - Visualizing customer groups using treemaps and bar plots
 
- ### Cohort Analysis for Customer Retention
+ ### 3️⃣ Cohort Analysis for Customer Retention
 - Tracking user retention trends over time
 - Understanding customer lifecycle and repeat purchase patterns
   
-### Customer Segmentation & Visualization
+### 4️⃣ Customer Segmentation & Visualization
 - Segmenting customers based on purchasing habits
 - Visualizing distribution using histograms, box plots, and treemaps
 
-### Customer Lifetime Value (CLV) Estimation
+### 5️⃣ Customer Lifetime Value (CLV) Estimation
 - Predicting future revenue per customer
 - Estimating CLV using the Beta Geometric / Negative Binomial Distribution (BG/NBD) model
 
