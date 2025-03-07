@@ -22,12 +22,12 @@ This dataset includes actual transactions from a UK-based online retailer betwee
 ## What This Notebook Analyzes
 This notebook provides a deep-dive analysis of customer behavior through multiple analytical techniques:
 
-### Exploratory Data Analysis (EDA)
+### 1️⃣ Exploratory Data Analysis (EDA)
 - Detecting missing values and data inconsistencies
 - Understanding sales trends and distributions
 - Analyzing top-selling products and revenue drivers
 
-### RFM Analysis (Recency, Frequency, Monetary Value)
+### 2️⃣ RFM Analysis (Recency, Frequency, Monetary Value)
 - Segmenting customers based on their purchasing behavior
 - Identifying high-value and at-risk customers
 - Visualizing customer groups using treemaps and bar plots
