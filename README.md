@@ -10,14 +10,14 @@ This dataset includes actual transactions from a UK-based online retailer betwee
 
 ### Dataset Features
 
-- InvoiceNo: Unique transaction identifier (cancellations marked with 'C').
-- StockCode: Unique product identifier.
-- Description: Name of the product.
-- Quantity: Number of items purchased per transaction.
-- InvoiceDate: Timestamp of the transaction.
-- UnitPrice: Price per unit of the product.
-- CustomerID: Unique customer identifier.
-- Country: Country of the customer.
+- **InvoiceNo:** Unique transaction identifier (cancellations marked with 'C').
+- **StockCode:** Unique product identifier.
+- **Description:** Name of the product.
+- **Quantity:** Number of items purchased per transaction.
+- **InvoiceDate:** Timestamp of the transaction.
+- **UnitPrice:** Price per unit of the product.
+- **CustomerID:** Unique customer identifier.
+- **Country:** Country of the customer.
 
 ## What This Notebook Analyzes
 This notebook provides a deep-dive analysis of customer behavior through multiple analytical techniques:
