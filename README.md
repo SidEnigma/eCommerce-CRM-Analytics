@@ -1,4 +1,4 @@
-# 📊 CRM Analytics: Unlocking Customer Insights with Data
+# CRM Analytics: Unlocking Customer Insights with Data
 
 ## 🚀 Overview
 This notebook provides a comprehensive analysis of customer purchasing behavior using CRM Analytics. 
